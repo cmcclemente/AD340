@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="my_name">Christopher Clemente 4/8/2021</string>
+    <string name="bye">Bye</string>
+    <string name="image">image</string>
+</resources>
